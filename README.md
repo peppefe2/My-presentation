@@ -5,7 +5,7 @@
 
 **Management/Industrial Engineer | Supply Chain Optimization | Data Analytics & Simulation**
 
-I am a Management Engineering M.Sc. Candidate, passionate about optimizing supply chain operations. My work focuses on bridging the gap between data-driven methodologies and simulation models to translate raw operational data into actionable business insights. I strongly believe in continuous improvement and leveraging innovation to build resilient logistics networks.
+I am a Management Engineering M.Sc. Graduate, passionate about optimizing supply chain operations. My work focuses on bridging the gap between data-driven methodologies and simulation models to translate raw operational data into actionable business insights. I strongly believe in continuous improvement and leveraging innovation to build resilient logistics networks.
 
 ### 🛠 Tech Stack & Tools
 
